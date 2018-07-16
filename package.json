@@ -1,0 +1,24 @@
+{
+  "name": "food-tracking-MERN",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsalyer23/food-tracking-MERN.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsalyer23/food-tracking-MERN/issues"
+  },
+  "homepage": "https://github.com/jsalyer23/food-tracking-MERN#readme",
+  "dependencies": {
+    "graphql-yoga": "^1.14.12",
+    "mongoose": "^5.2.3"
+  }
+}
